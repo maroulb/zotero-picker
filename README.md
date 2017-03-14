@@ -40,10 +40,8 @@ Note: In case you need it, you can see the citation key values of your items in 
 
 Note: for more convenience you can use the classic Add Citation dialog from Zotero. Go to 'Preferences -> Cite' and check the 'Use classic Add Citation dialog' box.
 
-![classic Add Citation dialog
-checkbox](todo: add proper link to 'ClassicDialogSetting.png')
+![classic Add Citation dialog checkbox](https://raw.githubusercontent.com/maroulb/zotero-picker/master/ClassicDialogSetting.png)
 
 This gives you the advantage to choose the appropriate source from your library or any pre-defined collection. Additionally you are now able to specify concrete page (or range of pages), chapter, figure or similar for the cited source.
 
-![screencast of using
-classic Add Citation dialog](todo: add proper link to 'zotero_picker_classic_latex.gif')
+![screencast of using classic Add Citation dialog](https://raw.githubusercontent.com/maroulb/zotero-picker/master/zotero_picker_classic_latex.gif')
